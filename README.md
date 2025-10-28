@@ -5,7 +5,7 @@ A Python File That want troll your families
 
 ## 💻 How To Install
 
-1. **Download Zip**:
+1. **Download Zip**
 
 
 ## ❗ Disclaimer ## 
