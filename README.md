@@ -1,6 +1,5 @@
 ## 🌐 Bank Troll
 A Python File That want troll your families
- 
 
 
 ## 💻 How To Install
