@@ -6,6 +6,11 @@ A Python File That want troll your families
 
 1. **Download Zip**
 
+## The creator ##
+
+- Made By Chatgpt LOl
+- Sioss NAH JUST A SKID
+
 
 ## ❗ Disclaimer ## 
 The use of this python file is not the responsibility of busted market, it is for trolling and not for malicious things
