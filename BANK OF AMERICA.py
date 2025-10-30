@@ -17,7 +17,7 @@ def set_console_title(title: str):
         if 'windows' in system:
             os.system(f"title {title}")
         else:
-            # Pour la plupart des terminaux Unix compatibles xterm
+            # AHHHH
             sys.stdout.write(f"\x1b]0;{title}\x07")
             sys.stdout.flush()
     except Exception:
@@ -78,3 +78,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
